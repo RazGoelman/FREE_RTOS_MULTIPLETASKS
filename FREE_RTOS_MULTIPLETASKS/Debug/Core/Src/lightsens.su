@@ -1,0 +1,2 @@
+../Core/Src/lightsens.c:4:6:lightsenseInit	24	static
+../Core/Src/lightsens.c:11:5:getValue	16	static

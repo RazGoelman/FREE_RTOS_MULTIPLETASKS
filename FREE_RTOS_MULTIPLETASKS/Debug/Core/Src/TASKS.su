@@ -1,0 +1,4 @@
+../Core/Src/TASKS.c:21:6:buzzer_task	16	static
+../Core/Src/TASKS.c:41:6:RTC_func	16	static
+../Core/Src/TASKS.c:54:7:LIGHT_sensor	16	static
+../Core/Src/TASKS.c:66:7:printTask	48	static
